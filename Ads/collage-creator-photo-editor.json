@@ -13,15 +13,15 @@
            "RewardedAdKey": "FacebookFacebookFacebook",
            "NativeAdKey": ""
         },
-           {
-               "MonetizationId": 6,
-               "MonetizerName": "ironSource",
-               "AdAppKey": "1261eec25",
-               "BannerAdKey": "",
-               "InterstitialAdKey": "",
-               "RewardedAdKey": "",
-               "NativeAdKey": ""
-           },
+        {
+           "MonetizationId": 6,
+           "MonetizerName": "ironSource",
+           "AdAppKey": "1261eec25",
+           "BannerAdKey": "",
+           "InterstitialAdKey": "",
+           "RewardedAdKey": "",
+           "NativeAdKey": ""
+        },
         {
            "MonetizationId": 5,
            "MonetizerName": "UnityAds",
